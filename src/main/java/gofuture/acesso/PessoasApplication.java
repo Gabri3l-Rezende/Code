@@ -1,4 +1,4 @@
-package gofuture.acesso.service;
+package gofuture.acesso;
 
 
 import org.springframework.boot.SpringApplication;
